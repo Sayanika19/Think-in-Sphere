@@ -1,5 +1,5 @@
 ## Introduction
-The boundaries of knowledge is constantly expanding in different fields. Achieving quality education in every field is not possible. Sometimes we fail to come across such teachers who can provide us with sufficient guidance. So we identified this serious issue and also tried to solve it through AI for a skilfully educated future. 
+The boundaries of knowledge is constantly expanding in different fields. Achieving quality education in every field is not possible. Sometimes we fail to come across such teachers who can provide us with sufficient guidance. So we identified this serious issue and also tried to solve it through AI for a skillfully educated future. 
 
 ## Features
 
